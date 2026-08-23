@@ -2,6 +2,8 @@ import streamlit as st
 import pandas as pd
 import joblib
 
+model = joblib.load("model.pkl")
+
 # Page configuration
 st.set_page_config(
     page_title="Medical Insurance Cost Prediction",
