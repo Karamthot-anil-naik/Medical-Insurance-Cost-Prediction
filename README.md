@@ -4,6 +4,9 @@ Predict medical insurance charges based on customer demographics and health-rela
 
 ---
 
+DEPLOY
+Streamlit 
+https://medical-insurance-cost-prediction-7zxepmgap5vxonppfbsspp.streamlit.app/
 ## 🚀 Project Overview
 
 This project builds a Machine Learning model to estimate medical insurance costs using customer attributes such as age, BMI, smoking status, gender, number of children, and region.
